@@ -1,5 +1,7 @@
-<a href='https://mehranbarmouz.com' target="_blank"><img src="/mehranbarmouz.svg"></a>
-<br/>
+  <a  href="https://mehranbarmouz.com" target="_blank">
+
+        <img src="./mehranbarmouz.svg" alt="">
+    </a><br/>
 
 - <p> As a detail-oriented designer and frontend developer, I enjoy collaborating with teams to produce outstanding results.<p>
 
