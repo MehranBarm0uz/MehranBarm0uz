@@ -1,9 +1,9 @@
 <a href='https://mehranbarmouz.com' target="blank"><img src="/mehranbarmouz.svg"></a>
 <br/>
 
-- <h3> As a detail-oriented designer and frontend developer, I enjoy collaborating with teams to produce outstanding results.<p>
+- <p> As a detail-oriented designer and frontend developer, I enjoy collaborating with teams to produce outstanding results.<p>
 
-- <h3> I'm currently part of a three-person frontend development team, and I recently led the UI/UX design for a project. I am excited to work with others who share my passion for creating exceptional products. Let's collaborate to bring your ideas to life.<p>
+- <p> I'm currently part of a three-person frontend development team, and I recently led the UI/UX design for a project. I am excited to work with others who share my passion for creating exceptional products. Let's collaborate to bring your ideas to life.<p>
 
 
 
