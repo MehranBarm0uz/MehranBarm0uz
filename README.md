@@ -1,4 +1,11 @@
 <a href='https://mehranbarmouz.com' target="blank"><img src="/mehranbarmouz.svg"></a>
+<br/><br/><br/><br/>
+
+<p> As a detail-oriented designer and frontend developer, I enjoy collaborating with teams to produce outstanding results. <p/>
+<p> I'm currently part of a three-person frontend development team, and I recently led the UI/UX design for a project. I am excited to work with others who share my passion for creating exceptional products. Let's collaborate to bring your ideas to life.<p>
+
+
+-----
 
 **You can reach me from the links below**
 
@@ -8,7 +15,7 @@
 
 
 
-
+<br/><br/><br/>
 ***In Designing Side*** 
 
 ```mermaid
@@ -17,7 +24,7 @@ A((Designing))  --> B(Research target audience and project requirements) --> C( 
 
 ``` 
 
-<br/><br/><br/><br/> 
+<br/><br/>
 
 ***In Development Side***
 
